@@ -6,6 +6,7 @@
 		<item value="bitbucket.org"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/HariKaran2000/GitTest.git"/>
 		<item value="https://github.com/HariKaran2000/CLF-Training.git"/>
 	</list>
 	<list key="CommitDialog.authorValues">
