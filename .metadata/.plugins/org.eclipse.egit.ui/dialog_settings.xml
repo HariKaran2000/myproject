@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/HariKaran2000/CLF-Training.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="harikas &lt;harikas@LIN76003687.corp.capgemini.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="harikas &lt;harikas@LIN76003687.corp.capgemini.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="true"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\HARIKAS\git\CLF-Training\.git">
+			<item value="false"/>
+			<item value="harikas &lt;harikas@LIN76003687.corp.capgemini.com&gt;"/>
+			<item value="first commit"/>
+			<item value="harikas &lt;harikas@LIN76003687.corp.capgemini.com&gt;"/>
+			<item value="e4a38bba2d69401d1adfe3ecd8ff7529f2dd65b3"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
