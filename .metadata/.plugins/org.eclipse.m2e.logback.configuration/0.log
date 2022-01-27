@@ -46,3 +46,4 @@
 2022-01-24 13:58:33,161 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\HARIKAS\git\GitTest\.git]
 2022-01-24 14:01:46,410 [Worker-20: Computing Git status for repository eclipse-workspace] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\HARIKAS\eclipse-workspace\sampleproject\.git]
 2022-01-24 14:21:32,186 [Worker-15: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-24 15:17:21,715 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
